@@ -6,6 +6,8 @@ The engine supports conditional branching, expression evaluation, randomized eve
 
 Narratix Engine is particularly well-suited for educational use, experimental narrative design, and small-to-medium scale story-driven game development.
 
+中文说明文档请参考：[README_CN.md](./README_CN.md)
+
 ## Run
 
 Install dependencies:
