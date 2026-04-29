@@ -32,7 +32,6 @@ assets/images/                    中央 CG 图片
 assets/portraits/                 角色头像与表情
 assets/audio/                     BGM 音频
 saves/save_slot_*.json            多档位存档
-CSV剧情脚本设计说明书.docx          详细脚本文档
 ```
 
 ## 操作
