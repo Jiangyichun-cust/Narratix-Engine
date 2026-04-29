@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "saved_at": "2026-04-29T15:54:21",
+  "story_path": "story.csv",
+  "chapter": "chapter_1",
+  "start_label": "start",
+  "engine": {
+    "variables": {
+      "线索": 2,
+      "理智": 5,
+      "信任度": 2,
+      "暗线分": 4
+    },
+    "metadata": {
+      "ui_title": "双影档案",
+      "ui_subtitle": "两名角色 / 多变量 / 多结局样例",
+      "profile_name": "林澈",
+      "profile_status": "学生会调查员",
+      "profile_portrait": "linche_normal.png",
+      "hidden_stats": "暗线分,结局分数,随机干扰"
+    },
+    "pc": 49,
+    "running": true,
+    "waiting_choice": false,
+    "current_choices": [],
+    "current_image_path": "assets/images/archive_room.png",
+    "current_portrait_path": "assets/portraits/shenwei_soft.png"
+  },
+  "current_event": {
+    "event_type": "text",
+    "speaker": "沈未",
+    "text": "举报信没有指控任何人，只重复一句话：第二个人说真话，第一个人保护谎言。",
+    "text_effect": "normal",
+    "text_effect_param": "",
+    "text_animation_duration": 1.1,
+    "image_update": 0,
+    "image_path": "assets/images/archive_room.png",
+    "portrait_update": 1,
+    "portrait_path": "assets/portraits/shenwei_soft.png",
+    "options": null,
+    "variables": {
+      "线索": 2,
+      "理智": 5,
+      "信任度": 2,
+      "暗线分": 4
+    },
+    "metadata": {
+      "ui_title": "双影档案",
+      "ui_subtitle": "两名角色 / 多变量 / 多结局样例",
+      "profile_name": "林澈",
+      "profile_status": "学生会调查员",
+      "profile_portrait": "linche_normal.png",
+      "hidden_stats": "暗线分,结局分数,随机干扰"
+    }
+  },
+  "pending_event": null,
+  "current_cg": "assets/images/archive_room.png",
+  "story_entries": [
+    {
+      "speaker": "林澈",
+      "text": "晚自习后的旧教学楼只剩应急灯。沈未站在档案柜前，手里攥着一张被烧掉一角的值班表。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    },
+    {
+      "speaker": "沈未",
+      "text": "你来晚了三分钟。门禁记录被人改过，我只能确认一点：今晚有人故意把我们引到这里。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    },
+    {
+      "speaker": "林澈",
+      "text": "你决定先如何回应沈未？",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "choice"
+    },
+    {
+      "speaker": "林澈",
+      "text": "先说来源。这个时间点，任何证据都可能是诱饵。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    },
+    {
+      "speaker": "沈未",
+      "text": "你还是老样子，先怀疑人，再处理事。来源可靠，但我暂时不能说。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    },
+    {
+      "speaker": "林澈",
+      "text": "档案室的门没锁。桌上摆着两份材料：一份是监控截图，一份是匿名举报信。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    },
+    {
+      "speaker": "沈未",
+      "text": "沈未看向你：先查哪一份？",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "choice"
+    },
+    {
+      "speaker": "沈未",
+      "text": "举报信没有指控任何人，只重复一句话：第二个人说真话，第一个人保护谎言。",
+      "color": [
+        238,
+        232,
+        214
+      ],
+      "event_type": "text"
+    }
+  ],
+  "text_reveal": 35,
+  "history_scroll": 0,
+  "auto_scroll": true,
+  "ended": false
+}

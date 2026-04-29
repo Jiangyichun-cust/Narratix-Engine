@@ -32,6 +32,7 @@ assets/images/                    Center CG images
 assets/portraits/                 Character portraits and expressions
 assets/audio/                     BGM audio files
 saves/save_slot_*.json            Multi-slot save files
+CSV剧情脚本设计说明书.docx          Detailed script design document
 ```
 
 ## Controls
